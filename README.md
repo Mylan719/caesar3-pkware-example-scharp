@@ -1,4 +1,4 @@
-#Caesar 3 PKWare decompression example port for C#.
+# Caesar 3 PKWare decompression example port for C#.
 Caesar 3 PKWare decompression example
 
 C# is implementation could be used with Unity game engine for example.
@@ -7,8 +7,10 @@ This is a C# port of an example program for demonstrating how to decompress part
 Original example was made in Java by [Avatar Bianca van Schaik](https://github.com/bvschaik).
 
 ## Running
-
-`dotnet run`
+- Make sure you have .NET 6 installed
+- Change `C:\Path\to\Ceasar3\Test.sav` to actual save file location
+- Open PowerShell in the `src` folder
+- `dotnet run`
 
 ## Legend
 
